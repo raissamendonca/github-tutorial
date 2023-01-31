@@ -1,8 +1,14 @@
 # Let's get into some GitHub shenanigans :nerd_face:
 
-This public repo was created to share during the **Kinstello Lab Meeting** so that we can all get used to GitHub lingo and website layout, while practicing some basic activities within GitHub.
+This public repo was created to share some basic GitHub lingo and website layout, while practicing some fundamental tasks in GitHub/GitHub Desktop. I've added [resources](#resources) at the end for anyone looking for more info than we were able to cover.
 
-I've prepared some [slides](https://ksuprod-my.sharepoint.com/:p:/g/personal/rmarques_kent_edu/EZAmHw_xuFZPjNwK3d8eZawBPEjjnRHovxuvr3Y0vhjTFg?e=Ah1upX) to go along with lab meeting that contains some **key definitions** (also shown [below](#key-definitions)) and a bit of an [**activity**](https://ksuprod-my.sharepoint.com/:p:/g/personal/rmarques_kent_edu/EZAmHw_xuFZPjNwK3d8eZawBPEjjnRHovxuvr3Y0vhjTFg?e=zkhu9j&nav=eyJzSWQiOjI2NCwiY0lkIjozOTM3MTUyODU4fQ).
+### :bangbang: I highly encourage anyone interested in using GitHub to play around with [this great interactive tool](https://learngitbranching.js.org/) :woman_technologist:.
+
+
+---
+
+
+Here are some [slides](https://ksuprod-my.sharepoint.com/:p:/g/personal/rmarques_kent_edu/EZAmHw_xuFZPjNwK3d8eZawBPEjjnRHovxuvr3Y0vhjTFg?e=Ah1upX) to go along with lab meeting that contains some **key definitions** (also shown [below](#key-definitions)) and a bit of an [**activity**](https://ksuprod-my.sharepoint.com/:p:/g/personal/rmarques_kent_edu/EZAmHw_xuFZPjNwK3d8eZawBPEjjnRHovxuvr3Y0vhjTFg?e=zkhu9j&nav=eyJzSWQiOjI2NCwiY0lkIjozOTM3MTUyODU4fQ). 
 
 ### By the end of the activity, we should have practiced:
 :heavy_check_mark: Cloning a repository
@@ -18,8 +24,6 @@ I've prepared some [slides](https://ksuprod-my.sharepoint.com/:p:/g/personal/rma
 :heavy_check_mark: Branching and pull request to merge into main branch
 
 :heavy_check_mark: Adding to .gitignore file
-
-### I've added [resources](#resources) at the end for anyone looking for more info than we were able to cover.
 
 
 ---
