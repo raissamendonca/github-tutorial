@@ -1,3 +1,0 @@
-This is the text file where more than one person will edit the same line and we'll try to resolve conflicts.
-
-Can 2+ of you type you favorite food in the line immediately below?
