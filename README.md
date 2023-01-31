@@ -60,6 +60,8 @@ Here are some [slides](https://ksuprod-my.sharepoint.com/:p:/g/personal/rmarques
 
 [`pull request`](https://docs.github.com/en/get-started/quickstart/github-glossary#pull-request): Pull requests are proposed changes to a repository submitted by a user and accepted or rejected by a repository's collaborators.
 
+`add`: Adds a change in the working directory to the staging area. It tells Git that you want to include updates to a particular file in the next commit.
+
 [`commit`](https://docs.github.com/en/get-started/quickstart/github-glossary#commit): A commit, or "revision", is an individual change to a file (or set of files). 
 When you make a commit to save your work, Git creates a unique ID (a.k.a. the "SHA" or "hash") that allows you to keep record of the specific changes committed along with who made them and when. 
 
