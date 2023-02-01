@@ -22,7 +22,7 @@
 6. Scroll down and type a **commit message** + **extended description**
 
 ## 4. Create a file on local directory:
-1. Create a simple text file or drag-and-drop a script into **your-files** directory
+1. Create a simple text file or drag-and-drop a script into [**your-files**](https://github.com/raissamendonca/github-tutorial/tree/main/lab-meeting/your-files) directory
 2. On GitHub Desktop, make sure the files you’ve added/changed are selected
 3. Type a **commit message** + **extended description**
 4. Click on _Commit to main_
