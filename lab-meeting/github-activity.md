@@ -27,3 +27,23 @@
 3. Type a **commit message** + **extended description**
 4. Click on _Commit to main_
 5. On top toolbar, click _Push origin_
+
+## 5. Create a new branch:
+1. On GitHub.com, click on **main** and under _Find or create branch_ type your name and click on _Create a branch: xxxx from ‘main’_
+
+<p align='center'>🎉 You just branched 🤓</p>
+
+2. **_In your new branch_**, click on _name-function.R_
+3. On right corner of preview, click on the _little pencil icon_ ✏️
+4. One at a time, add a new row with `printName(your first name, your last name)`
+5. Write a _commit message_ and _commit changes_
+6. Navigate to **Pull requests** tab (up top) and click on **New pull request** (green button, right side)
+7. Under **Compare** select your new branch
+8. GitHub will show you the **diffs**
+9. Select _Create pull request_
+10. GitHub checks whether your `new branch` and `main` can be merged automatically (without any conflicts)
+11. If everythig looks good, click _Confirm merge_
+
+
+* You can delete your branch or keep it if you will continue working on a specific task.
+* You can leave detailed comments, refer issues, tag individuals, and add lists of tasks within each pull request.
