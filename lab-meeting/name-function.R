@@ -1,5 +1,5 @@
 printName <- function(name){
-  text <- paste("My name is", name) 
+  text <- paste("My name is NOT", name) 
   print(text)
 }
 
