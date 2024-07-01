@@ -1,6 +1,6 @@
 printName <- function(name){
-  text <- paste("My name is", name) 
+  text <- paste("Connor", name) 
   print(text)
 }
 
-printName("Dave")
+printName("Connor")
