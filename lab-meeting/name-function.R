@@ -4,3 +4,4 @@ printName <- function(name){
 }
 
 printName("Dave")
+printName(Connor, Gluck)
