@@ -1,8 +1,6 @@
 # GitHub Activity 🛠️
 
-> Also available as part of [slide deck](https://ksuprod-my.sharepoint.com/:p:/g/personal/rmarques_kent_edu/EZAmHw_xuFZPjNwK3d8eZawBPEjjnRHovxuvr3Y0vhjTFg?e=k7l7RW&nav=eyJzSWQiOjI2NCwiY0lkIjozOTM3MTUyODU4fQ).
-
-## 1. Clone a repo:
+## 1. Clone a repo
 
 1.  Open the [GitHub repository](https://github.com/Metal-subsidy-stress/github-playground)
 2.  Click Green "\<\> Code" box and select "Local"
@@ -15,7 +13,7 @@
     -   I recommend you do **NOT** use a cloud location (e.g., Google Drive, OneDrive) as the duplicate version control can cause issues
 8.  Click "Create project" to finish setup
 
-## 2. Create a file on GitHub.com:
+## 2. Create a file on GitHub.com
 
 1.  Return to the GitHub repository on your browser
 2.  Navigate to **training** directory
@@ -24,10 +22,16 @@
 5.  Type your *last name* as the file content
 6.  Scroll down and type a **commit message** + **extended description**
 
-## 3. Create a file on local directory:
+## 3. Pull from remote repo
 
-1.  Create a simple text file or drag-and-drop a script into [**your-files**](https://github.com/raissamendonca/github-tutorial/tree/main/lab-meeting/your-files) directory
-2.  On GitHub Desktop, make sure the files you’ve added/changed are selected
+1.  Return to RStudio
+2.  In the "Environment" pane click on the "Git" tab
+3.  Click "Pull" to download any changes to the repository from the remote
+
+## 3. Create a file on local directory
+
+1.  Create a simple text file or drag-and-drop a script into the **training** directory on your local machine
+2.  In RStudio
 3.  Type a **commit message** + **extended description**
 4.  Click on *Commit to main*
 5.  On top toolbar, click *Push origin*
