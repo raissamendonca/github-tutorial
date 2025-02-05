@@ -30,11 +30,16 @@
 
 ## 3. Create a file on local directory
 
-1.  Create a simple text file or drag-and-drop a script into the **training** directory on your local machine
-2.  In RStudio
-3.  Type a **commit message** + **extended description**
-4.  Click on *Commit to main*
-5.  On top toolbar, click *Push origin*
+1.  Create or find a simple text file, csv, or script, and drag the file into the **training** directory on your local machine
+2.  In RStudio, you'll notice the new file in Git section with two question mark boxes in the Status column
+3.  To send this file to the remote repository select the "Staged" box for the file you wish to upload
+    -   You'll notice the Status box changes to "A" which means you are adding a new file
+4.  Once staged, click the "Commit" and a new window will open
+5.  The bottom of the Commit window highlights the changes in the file. Add a description of the "Commit message" box describing the changes.
+    -   Advice for using Git is to commit often. View this as similar to clicking *Save* when you are writing a document.
+6.  Click the "Commit" button to finalize your commit
+    -   The Commit you have just done is still on your local machine. You will need to "Push" the changes to send them to the remote.
+7.  Click "Push" to send your file to the remote repo
 
 ## 5. Create a new branch:
 
