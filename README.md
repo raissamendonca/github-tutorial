@@ -15,6 +15,8 @@ Here are some [slides](https://ksuprod-my.sharepoint.com/:p:/g/personal/rmarques
 
 :heavy_check_mark: Writing a commit message and committing a change to a text file
 
+:heavy_check_mark: Adding files to GitHub
+
 :heavy_check_mark: Pushing changes from the local to the remote repository
 
 :heavy_check_mark: Merging changes and resolving merge conflicts
