@@ -72,6 +72,8 @@ When you make a commit to save your work, Git creates a unique ID (a.k.a. the "S
 
 
 # Resources
+* [NCEAS/LTER guide to GitHub](https://lter.github.io/workshop-github/)
+* [Happy with Git](https://happygitwithr.com/)
 * [GitHub glossary](https://docs.github.com/en/get-started/quickstart/github-glossary)
 * [Git and GitHub Learning Resources](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources)
 * [GitHub/Git Cheat Sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
