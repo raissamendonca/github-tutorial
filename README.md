@@ -1,8 +1,6 @@
-# Let's get into some GitHub shenanigans :nerd_face:
+# Let's practice some GitHub :nerd_face:
 
-This public repo was created to share some basic GitHub lingo and website layout, while practicing some fundamental tasks in GitHub/GitHub Desktop. I've added [resources](#resources) at the end for anyone looking for more info than we were able to cover.
-
-### :bangbang: I highly encourage anyone interested in using GitHub to play around with [this great interactive tool](https://learngitbranching.js.org/) :woman_technologist:.
+This repo was created to share some basic GitHub lingo and website layout, while practicing some fundamental tasks in GitHub/GitHub Desktop. I've added [resources](#resources) at the end for anyone looking for more info than we were able to cover.
 
 
 ---
@@ -22,9 +20,6 @@ Here are some [slides](https://ksuprod-my.sharepoint.com/:p:/g/personal/rmarques
 :heavy_check_mark: Merging changes and resolving merge conflicts
 
 :heavy_check_mark: Branching and pull request to merge into main branch
-
-:heavy_check_mark: Adding to .gitignore file
-
 
 ---
 
@@ -59,8 +54,6 @@ Here are some [slides](https://ksuprod-my.sharepoint.com/:p:/g/personal/rmarques
 [`resolve`](https://docs.github.com/en/get-started/quickstart/github-glossary#resolve): The action of fixing up manually what a failed automatic merge left behind.
 
 [`pull request`](https://docs.github.com/en/get-started/quickstart/github-glossary#pull-request): Pull requests are proposed changes to a repository submitted by a user and accepted or rejected by a repository's collaborators.
-
-`add`: Adds a change in the working directory to the staging area. It tells Git that you want to include updates to a particular file in the next commit.
 
 [`commit`](https://docs.github.com/en/get-started/quickstart/github-glossary#commit): A commit, or "revision", is an individual change to a file (or set of files). 
 When you make a commit to save your work, Git creates a unique ID (a.k.a. the "SHA" or "hash") that allows you to keep record of the specific changes committed along with who made them and when. 
