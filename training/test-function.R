@@ -1,5 +1,5 @@
 affirm <- function(name){
-  text <- paste0(name,", congrats, you did it") 
+  text <- paste0("good job",name) 
   print(text)
 }
 
