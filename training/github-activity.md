@@ -41,26 +41,19 @@
     -   The Commit you have just done is still on your local machine. You will need to "Push" the changes to send them to the remote.
 7.  Click "Push" to send your file to the remote repo
 
-## 5. Create a new branch:
+## 5. Working on the same code - branching
 
-1.  On GitHub.com, click on **main** and under *Find or create branch* type your name and click on *Create a branch: xxxx from ‘main’*
-
-<p align="center">
-
-🎉 You just branched 🤓
-
-</p>
-
-2.  ***In your new branch***, click on *name-function.R*
-3.  On right corner of preview, click on the *little pencil icon* ✏️
-4.  One at a time, add a new row with `printName(your first name, your last name)`
-5.  Write a *commit message* and *commit changes*
-6.  Navigate to **Pull requests** tab (up top) and click on **New pull request** (green button, right side)
-7.  Under **Compare** select your new branch
-8.  GitHub will show you the **diffs**
-9.  Select *Create pull request*
-10. GitHub checks whether your `new branch` and `main` can be merged automatically (without any conflicts)
-11. If everythig looks good, click *Confirm merge*
+1.  When you may have multiple people working on the same file it is best to create your own Branch to work locally on changes and not affect others
+2.  In RStudio click the "New Branch" button and give it a unique name.
+    -   Now you can all work on a unique "branch" of the same code without disrupting the *Main* code or generating conflicts with your collaborators
+3.  Open the file `test-function.R`
+4.  Change the text
+5.  Navigate to **Pull requests** tab (up top) and click on **New pull request** (green button, right side)
+6.  Under **Compare** select your new branch
+7.  GitHub will show you the **diffs**
+8.  Select *Create pull request*
+9.  GitHub checks whether your `new branch` and `main` can be merged automatically (without any conflicts)
+10. If everythig looks good, click *Confirm merge*
 
 -   You can delete your branch or keep it if you will continue working on a specific task.
 -   You can leave detailed comments, refer issues, tag individuals, and add lists of tasks within each pull request.
